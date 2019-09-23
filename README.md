@@ -12,7 +12,11 @@ Fišer, Jakub, Ondřej Jamriška, Michal Lukáč, Eli Shechtman, Paul Asente, Ji
 
 ## Created Time
 
-2017
+06/09/2017
+
+## Author
+
+Jiayi Chen
 
 ## Dataset Introduction 
 
@@ -26,6 +30,4 @@ Here is a summary for this dataset. If you need original files to help your rese
  ![image](https://github.com/jia-yi-chen/3dModel-to-2dArt-Dataset/blob/master/dataset_intro/1.jpg)
  ![image](https://github.com/jia-yi-chen/3dModel-to-2dArt-Dataset/blob/master/dataset_intro/2.jpg)
 
-## Author
 
-Jiayi Chen
