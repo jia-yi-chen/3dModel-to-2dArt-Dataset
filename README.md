@@ -6,7 +6,7 @@
 
  ![image](https://github.com/jia-yi-chen/3dModel-to-2dArt-Dataset/blob/master/dataset_intro/3.jpg)
 
-This dataset was created for reproducing that in this paper:
+This dataset was created in order to reproduce that in this paper:
 
 Fišer, Jakub, Ondřej Jamriška, Michal Lukáč, Eli Shechtman, Paul Asente, Jingwan Lu, and Daniel Sýkora. **StyLit: illumination-guided example-based stylization of 3D renderings**. ACM Transactions on Graphics (TOG), 2016. [paper](https://dl.acm.org/citation.cfm?id=2925948)
 
