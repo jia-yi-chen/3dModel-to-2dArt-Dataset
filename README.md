@@ -14,10 +14,10 @@ Fišer, Jakub, Ondřej Jamriška, Michal Lukáč, Eli Shechtman, Paul Asente, Ji
 * Each 3d object model, also, followed by six images which represent  Photorealistic 3D Rendering by multiple types of lighting
 * Style image created by Jiayi Chen, using [CorelPainter](https://www.painterartist.com/en/product/painter/?sourceid=ptr2020-xx-ppc_brkws&x-vehicle=ppc_brkws&gclid=EAIaIQobChMInrG05eLl5AIVzw0rCh1_jwf1EAAYASAAEgK-avD_BwE).
 
- ![image](https://github.com/jia-yi-chen/3dModel-to-2dArt/blob/master/dataset_intro/1.jpg)
- 
+ ![image](https://github.com/jia-yi-chen/3dModel-to-2dArt-Dataset/blob/master/dataset_intro/1.jpg)
+
 ## Examples
 
 ### 
 
- ![image](https://github.com/jia-yi-chen/3dModel-to-2dArt/blob/master/dataset_intro/2.jpg)
+ ![image](https://github.com/jia-yi-chen/3dModel-to-2dArt-Dataset/blob/master/dataset_intro/2.jpg)
